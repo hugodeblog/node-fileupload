@@ -23,3 +23,4 @@ Listening on port 3000
 
 実際の動作状況は以下のようになる。
 
+![動作画像](https://github.com/hugodeblog/node-fileupload/blob/images/node_fileupload.gif)

@@ -121,4 +121,7 @@ sessions/
 # GCP Key
 config/social.mjs
 
+# Sample image
+public/img
+
 # End of https://www.toptal.com/developers/gitignore/api/node
